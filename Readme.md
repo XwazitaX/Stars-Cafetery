@@ -1,3 +1,4 @@
+
 Hola buenas, este es un trabajo realizado para un submódulo de programación llamado "DISEÑA SOFTWARE DE SISTEMAS INFORMÁTICOS".
 
 Fue un trabajo hecho en equipo, donde cada integrante tuvo roles definidos, con ayuda de inteligencia artificial, además de utilizar Visual Studio Code y Git para organizar el repositorio.
@@ -33,6 +34,7 @@ Si entiendes tu rol, responde únicamente: *'Ready to code, Junior Dev. What are
 building today?'*
 
 ---------------------------------------------------------------------------------------------
+
 Videos utilizados para complementar y configurar el Repositorio:
 - https://www.youtube.com/watch?v=VVeqAlIMsDE
 - https://www.youtube.com/watch?v=H2h_ew9dc_0&t=25s

@@ -11,6 +11,6 @@ public class Cafeteria {
     double numeroB = sc.nextInt();
 
     double total = numeroA * numeroB;
-    System.out.println("El total a pagar es: " + total);
+    System.out.println("El total a pagar es= " + total);
   }
 }

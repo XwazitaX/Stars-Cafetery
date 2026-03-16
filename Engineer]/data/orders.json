@@ -1,0 +1,13 @@
+{
+  "orderId": "O1001",
+  "userId": "12345044573",
+  "items": [
+    {
+      "productId": "F01",
+      "quantity": 1
+    }
+  ],
+  "status": "PENDING",
+  "pickupTime": "10:30",
+  "totalAmount": 25
+}

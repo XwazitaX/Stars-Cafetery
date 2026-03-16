@@ -1,40 +1,40 @@
 [
   {
-    "Numero de matricula": "12345044573",
-    "Contraseña": "CA23fgp",
-    "Nombre completo": "Juan Pérez",
-    "Rol": "Alumno",
-    "Estado": "Activo",
+    "enrollmentId": "12345044573",
+    "password": "CA23fgp",
+    "fullName": "Juan Pérez",
+    "role": "student",
+    "status": "active",
     
-    "Detalles_Escolares": {
-    "Turno": "Matutino",
-    "Grupo": "3-B"
+    "academicDetails": {
+      "shift": "Matutino",
+      "group": "3-B"
     }
   },
 
   {
-    "Numero de matricula": "12345454573",
-    "Contraseña": "Cb74pnm",
-    "Nombre completo": "Enrique morales",
-    "Rol": "Profesor",
-    "Estado": "Activo",
+    "enrollmentId": "12345454573",
+    "password": "Cb74pnm",
+    "fullName": "Enrique morales",
+    "role": "teacher",
+    "status": "active",
     
-    "Detalles_Escolares": {
-    "departamento": "Ciencias Exactas",
-    "tiene_descuento": true
+    "academicDetails": {
+      "department": "Ciencias Exactas",
+      "hasDiscount": true
     }
-  },  
+  },
 
   {
-    "Numero de matricula": "238589384994",
-    "Contraseña": "hl234ky",
-    "Nombre completo": "Rosario García",
-    "Rol": "Personal_cafeteria",
-    "Estado": "Activo",
+    "enrollmentId": "238589384994",
+    "password": "hl234ky",
+    "fullName": "Rosario García",
+    "role": "staff",
+    "status": "active",
     
-    "Detalles_laborales": {
-    "area": "Cocina Principal",
-    "permisos": ["gestionar_pedidos", "editar_inventario"]
+    "workDetails": {
+      "area": "Cocina Principal",
+      "permissions": ["gestionar_pedidos", "editar_inventario"]
     }
-  }  
+  }
 ]

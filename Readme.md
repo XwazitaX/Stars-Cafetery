@@ -1,17 +1,15 @@
 
 Hola buenas, este es un trabajo realizado para un submódulo de programación llamado "DISEÑA SOFTWARE DE SISTEMAS INFORMÁTICOS".
 
-Fue un trabajo hecho en equipo, donde cada integrante tuvo roles definidos, con ayuda de inteligencia artificial, además de utilizar Visual Studio Code y Git para organizar el repositorio.
+Fue un trabajo hecho en equipo, donde cada integrante tuvo trabajos ,roles definidos. con ayuda de inteligencia artificial, además de utilizar Visual Studio Code y Git para organizar el repositorio.
 
 ---------------------------------------------------------------------------------------------
 
 Integrantes del Equipo:
-- Edgar Castillo Pérez (Project Leader, Requirements Engineer)
-- Yahir Aguilar Martinez (QA Tester)
-- Johann Josue Rosas Rivera (System Analyst)
-- Juan Efren Morales Hernandez (UX/UI Designer)
-
-Nota: Todos los integrantes aportaron al desarrollo del trabajo, aplicando sus roles de manera adecuada y profesional.
+- Edgar Castillo Pérez
+- Yahir Aguilar Martinez
+- Johann Josue Rosas Rivera
+- Juan Efren Morales Hernandez
 
 ---------------------------------------------------------------------------------------------
 

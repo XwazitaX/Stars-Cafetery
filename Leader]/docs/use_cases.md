@@ -1,5 +1,5 @@
 # Use Cases
-a
+
 ## Crear pedido
 
 Actor: Estudiante

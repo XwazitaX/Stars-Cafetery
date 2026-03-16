@@ -1,7 +1,6 @@
 
-Hola buenas, este es un trabajo realizado para un submódulo de programación llamado "DISEÑA SOFTWARE DE SISTEMAS INFORMÁTICOS".
-
-Fue un trabajo hecho en equipo, donde cada integrante tuvo trabajos ,roles definidos. con ayuda de inteligencia artificial, además de utilizar Visual Studio Code y Git para organizar el repositorio.
+**Description**
+Este proyecto consiste en el diseño y desarrollo de una solución de software enfocada en sistemas informáticos. El flujo de trabajo está basado en una metodología de aprendizaje guiado, utilizando Inteligencia Artificial bajo un rol de Senior Mentor para fortalecer la lógica de programación y el dominio del stack tecnológico.
 
 ---------------------------------------------------------------------------------------------
 
@@ -42,3 +41,4 @@ Extenciones Utilizadas:
 Videos utilizados para complementar y configurar el Repositorio:
 - https://www.youtube.com/watch?v=VVeqAlIMsDE
 - https://www.youtube.com/watch?v=H2h_ew9dc_0&t=25s
+- https://www.youtube.com/watch?v=TLLzSvcoVQg   

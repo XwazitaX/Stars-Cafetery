@@ -36,9 +36,9 @@ building today?'*
 ---------------------------------------------------------------------------------------------
 
 Extenciones Utilizadas:
-GitHub Pull Requests
-Debugger for Java
-Java
+- GitHub Pull Requests
+- Debugger for Java
+- Java
 
 
 Videos utilizados para complementar y configurar el Repositorio:

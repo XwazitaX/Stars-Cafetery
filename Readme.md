@@ -35,6 +35,12 @@ building today?'*
 
 ---------------------------------------------------------------------------------------------
 
+Extenciones Utilizadas:
+GitHub Pull Requests
+Debugger for Java
+Java
+
+
 Videos utilizados para complementar y configurar el Repositorio:
 - https://www.youtube.com/watch?v=VVeqAlIMsDE
 - https://www.youtube.com/watch?v=H2h_ew9dc_0&t=25s

@@ -1,0 +1,50 @@
+[
+  {
+    "productId": "F01",
+    "name": "Ham and Cheese Croissant",
+    "price": 35.0,
+    "stock": 10
+  },
+  {
+    "productId": "F02",
+    "name": "Chicken Torta",
+    "price": 30.0,
+    "stock": 25
+  },
+  {
+    "productId": "F03",
+    "name": "Taco Order",
+    "price": 45.0,
+    "stock": 10
+  },
+  {
+    "productId": "F04",
+    "name": "Drowned Torta",
+    "price": 30.0,
+    "stock": 25
+  },
+  {
+    "productId": "F05",
+    "name": "Burger",
+    "price": 35.0,
+    "stock": 25
+  },
+  {
+    "productId": "S01",
+    "name": "Gorditas",
+    "price": 12.0,
+    "stock": 35
+  },
+  {
+    "productId": "D01",
+    "name": "Flavored Water",
+    "price": 18.0,
+    "stock": 25
+  },
+  {
+    "productId": "D02",
+    "name": "Electrolytes",
+    "price": 22.0,
+    "stock": 25
+  }
+]

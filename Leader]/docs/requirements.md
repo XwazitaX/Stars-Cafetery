@@ -1,0 +1,1 @@
+El sistema debe permitir que un Student vea el Menu. El Total Price debe calcularse automáticamente en el Cart

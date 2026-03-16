@@ -1,0 +1,40 @@
+[
+  {
+    "Numero de matricula": "12345044573",
+    "Contraseña": "CA23fgp",
+    "Nombre completo": "Juan Pérez",
+    "Rol": "Alumno",
+    "Estado": "Activo",
+    
+    "Detalles_Escolares": {
+    "Turno": "Matutino",
+    "Grupo": "3-B"
+    }
+  },
+
+  {
+    "Numero de matricula": "12345454573",
+    "Contraseña": "Cb74pnm",
+    "Nombre completo": "Enrique morales",
+    "Rol": "Profesor",
+    "Estado": "Activo",
+    
+    "Detalles_Escolares": {
+    "departamento": "Ciencias Exactas",
+    "tiene_descuento": true
+    }
+  },  
+
+  {
+    "Numero de matricula": "238589384994",
+    "Contraseña": "hl234ky",
+    "Nombre completo": "Rosario García",
+    "Rol": "Personal_cafeteria",
+    "Estado": "Activo",
+    
+    "Detalles_laborales": {
+    "area": "Cocina Principal",
+    "permisos": ["gestionar_pedidos", "editar_inventario"]
+    }
+  }  
+]

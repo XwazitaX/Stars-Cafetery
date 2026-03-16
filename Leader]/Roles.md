@@ -4,7 +4,7 @@ Integrantes del equipo y sus respectivos Roles:
 - Johann Josue Rosas Rivera(QA Tester)
 - Juan Efren Morales Hernandez(UX/UI Designer)
 
-Descripcion de Los Roles(Para los Integrantes):
+Guía Rápida de Entregables por Rol(Para los Integrantes):
 
 ● Project Leader: 
 ○ Crea: La estructura base de carpetas y archivos en GitHub. 
